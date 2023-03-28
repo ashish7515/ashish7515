@@ -1,4 +1,4 @@
-- Hello, I’m Ashish Kumar currently pursuing Electronics Engineering from Indian Institue of Technology , BHU ,Varanasi.
+- I’m Ashish Kumar currently pursuing Electronics Engineering from Indian Institue of Technology , BHU ,Varanasi.
 - Linkdin Handle : https://www.linkedin.com/in/ashis7515/ 
 
 <!---
