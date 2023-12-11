@@ -1,4 +1,4 @@
-- I’m Ashish Kumar currently pursuing Electronics Engineering from Indian Institue of Technology , BHU ,Varanasi.
+- I’m a third year undergraduate pursuing Electronics Engineering from Indian Institue of Technology , BHU, Varanasi. I am developing my skills on the MERN stack!
 - Linkdin Handle : https://www.linkedin.com/in/ashis7515/ 
 
 <!---
