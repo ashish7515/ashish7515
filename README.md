@@ -2,7 +2,7 @@
 
 - I’m a **fourth-year undergraduate** pursuing **Electronics Engineering** at **Indian Institute of Technology (IIT) BHU, Varanasi**.  
 - Currently working on the **backend of CVAT** as part of the **Audino Project** at **MIDAS Lab**.  
-- 📌 LinkedIn: [https://www.linkedin.com/in/ashis7515/](https://www.linkedin.com/in/ashis7515/)  
+- 📌 LinkedIn: [ashis7515](www.linkedin.com/in/ashish7515)
 - ✉️ Email: [ashish.kumar.ece21@iitbhu.ac.in](mailto:ashish.kumar.ece21@iitbhu.ac.in)  
 
 <!---  
